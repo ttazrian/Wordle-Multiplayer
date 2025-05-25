@@ -65,9 +65,3 @@ java Client 12345
 * Expand support for more than two players per room.
 * Enable web or desktop deployment.
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
